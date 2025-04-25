@@ -42,7 +42,6 @@ It answers critical business questions including:
 | Python      | Scripting and analysis           |
 | Pandas      | Data manipulation and cleaning   |
 | Plotly      | Interactive data visualization   |
-| Google Colab / Jupyter | Notebook prototyping  |
 
 ---
 
