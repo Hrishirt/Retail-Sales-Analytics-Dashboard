@@ -47,12 +47,12 @@ It answers critical business questions including:
 
 ## 📈 Analysis and Visualizations
 
-- **Sales and Profit by Region** — Identified the most and least profitable geographic areas.
-- **Top Customers and Products** — Revealed which customers and products drive profit.
-- **Profitability by Customer Segment** — Discovered that Corporate and Home Office segments are the most profitable.
-- **Discount vs Profit Analysis** — Found that discounts over 20% significantly reduce profitability.
-- **Sales Trends Over Time** — Highlighted seasonal revenue spikes (especially Q4) useful for inventory planning.
-- **Heatmaps by Sub-Category and Region** — Pinpointed product and region-specific opportunities.
+- **Sales and Profit by Region** —> Identified the most and least profitable geographic areas.
+- **Top Customers and Products** —> Revealed which customers and products drive profit.
+- **Profitability by Customer Segment** —> Discovered that Corporate and Home Office segments are the most profitable.
+- **Discount vs Profit Analysis** —> Found that discounts over 20% significantly reduce profitability.
+- **Sales Trends Over Time** —> Highlighted seasonal revenue spikes (especially Q4) useful for inventory planning.
+- **Heatmaps by Sub-Category and Region** —> Pinpointed product and region-specific opportunities.
 
 ---
 
