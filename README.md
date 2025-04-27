@@ -1,23 +1,23 @@
-# 🛍️ Retail Sales Analytics Dashboard
+# Retail Sales Analytics Dashboard
 
 A basic semi-interactive business analytics project analyzing retail sales, customer behavior, product profitability, and discount strategies using Python, Pandas, and Plotly.  
 Built to simulate real-world consulting workflows: from data cleaning ➔ exploration ➔ visualization ➔ strategic recommendation.
 
 ---
 
-## 🔍 About This Project
+## About This Project
 
 This project was developed to explore and extract strategic business insights from the [Superstore Sales dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).  
 It answers critical business questions including:
 
-- 📦 Which products and categories drive the most profit?
-- 🗺️ Which regions and cities should the company target or avoid?
-- 👥 Which customer segments contribute most to revenue and profitability?
-- 💸 How do discounts impact profitability, and where can pricing strategies be optimized?
+- Which products and categories drive the most profit?
+- Which regions and cities should the company target or avoid?
+- Which customer segments contribute most to revenue and profitability?
+- How do discounts impact profitability, and where can pricing strategies be optimized?
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Data Cleaning**: Handled missing values, parsed dates, and engineered new features like Month-Year.
 - **Exploratory Data Analysis (EDA)**: Identified patterns across categories, regions, and customer segments.
@@ -27,7 +27,7 @@ It answers critical business questions including:
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - **Source**: [Superstore Dataset - Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Size**: 9,994 records
@@ -35,7 +35,7 @@ It answers critical business questions including:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool        | Purpose                         |
 |:------------|:---------------------------------|
@@ -45,7 +45,7 @@ It answers critical business questions including:
 
 ---
 
-## 📈 Analysis and Visualizations
+## Analysis and Visualizations
 
 - **Sales and Profit by Region** —> Identified the most and least profitable geographic areas.
 - **Top Customers and Products** —> Revealed which customers and products drive profit.
@@ -56,7 +56,7 @@ It answers critical business questions including:
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 - The **West region** generates the most sales, but some categories underperform on profit margins.
 - **Technology products** in the **Consumer segment** drive the highest profits - high priority for targeting.
@@ -65,7 +65,7 @@ It answers critical business questions including:
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Deploy as a full **Dash** or **Streamlit** interactive web app.
 - Integrate **predictive models** (e.g., forecasting future sales trends).
